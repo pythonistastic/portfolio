@@ -137,16 +137,16 @@ p {
 
 /* Testimonial Section */
 
-#testimonials {
+#company {
   background-color: #73c2db;
 }
 
-.testimonial-text {
+.company-text {
   font-size: 3rem;
   line-height: 1.5;
 }
 
-.testimonial-image {
+.company-image {
   width: 10%;
   border-radius: 100%;
   margin: 20px;
@@ -163,9 +163,9 @@ p {
   margin: 20px 20px 50px;
 }
 
-/* Pricing Section */
+/* achievments Section */
 
-#pricing {
+#achievments {
   padding: 100px;
 }
 
@@ -174,7 +174,7 @@ p {
   line-height: 1.5;
 }
 
-.pricing-column {
+.achievments-column {
   padding: 3% 2%;
 }
 
